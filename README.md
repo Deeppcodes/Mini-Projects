@@ -12,6 +12,7 @@ Fetches real-time weather data using an API and displays it in the terminal.
 Focus: Working with APIs and libraries like requests.
 
 Learning Highlights
+
 This project emphasizes:
 
 Object-Oriented Programming (OOP): Demonstrates inheritance, method overriding, and custom class definitions.

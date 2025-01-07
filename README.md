@@ -14,11 +14,10 @@ Focus: Working with APIs and libraries like requests.
 Learning Highlights
 This project emphasizes:
 
-Object-Oriented Programming (OOP):
-Demonstrates inheritance, method overriding, and custom class definitions.
-Exception Handling:
-Introduces a custom exception class for better transaction control and error management.
-Encapsulation:
-Manages account details and logic within well-defined classes and methods.
-Code Reusability:
-Efficiently extends functionality through inheritance and overrides.
+Object-Oriented Programming (OOP): Demonstrates inheritance, method overriding, and custom class definitions.
+
+Exception Handling: Introduces a custom exception class for better transaction control and error management.
+
+Encapsulation: Manages account details and logic within well-defined classes and methods.
+
+Code Reusability: Efficiently extends functionality through inheritance and overrides.
